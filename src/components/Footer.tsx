@@ -7,10 +7,13 @@ const Footer = () => {
         E-Commerce site
       </p>
       <div className="flex  gap-5">
-        <a href="" target="_blank">
+        <a href="https://github.com/Sudhakar961612" target="_blank">
           <GitHubLogoIcon width={30} height={30} />
         </a>
-        <a href="" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/sudhakar-pandey-929638188/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          target="_blank"
+        >
           <LinkedInLogoIcon width={30} height={30} />
         </a>
       </div>
